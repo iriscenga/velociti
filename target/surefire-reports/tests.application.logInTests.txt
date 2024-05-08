@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.application.logInTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.134 s - in tests.application.logInTests

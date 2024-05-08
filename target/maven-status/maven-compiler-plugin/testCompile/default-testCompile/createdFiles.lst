@@ -1,0 +1,16 @@
+tests\bulkOperations\pendingConfirmationTests.class
+tests\bulkOperations\subscriptionsToReviewTests.class
+bulkPageObjects\FirstBubble.class
+tests\bulkOperations\assetsWithMultipleServicesTests.class
+tests\bulkOperations\devicesNeverReportedTests.class
+tests\permissions\clientProductReadOnlyTests.class
+pageObjects\ReportsPage.class
+permissionsPageObjects\VelocitiAdminPage.class
+tests\permissions\financeReadOnlyTests.class
+tests\permissions\financeReconciliationTests.class
+pageObjects\SubscriptionsPage.class
+pageObjects\BillingPage.class
+pageObjects\LoginPage.class
+pageObjects\ProvidersPage.class
+pageObjects\ClientsPage.class
+tests\bulkOperations\activeSubsWithoutAssetsTests.class
